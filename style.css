@@ -1,0 +1,22 @@
+#meal_item{
+    display: flex;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+.mealList{
+    
+    padding: 20px;
+    width: 350px;
+}
+.meal-details-title{
+    font-size: 30px;
+}
+.meal-image{
+    width: 320px;
+}
+#meal_details_item{
+    padding-bottom: 30px;
+}
+.meal-details-image{
+    width: 400px;
+}
